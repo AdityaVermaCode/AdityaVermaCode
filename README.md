@@ -1,5 +1,20 @@
-# 💫 About Me:
-👋 Hi, I'm Aditya Verma!<br> I am an AI/ML Student currently deep-diving into the world of Data Science, Machine Learning, and Neural Networks.<br>Right now, I am focusing on mastering core algorithms, data preprocessing, and understanding how models work under the hood.<br>Languages : Python, C++ , Java, MySQL<br>Frameworks : Flask<br>AI/ML Libraries : Scikit-Learn,Numpy, Pandas,Matplotlib<br>Tools : Flask, Dbeaver<br>
+# 💫 About Me
+
+### 👋 Hi, I'm Aditya Verma!
+> 🚀 **AI/ML Student & Aspiring AI Engineer**
+> 
+> *I don't just import libraries—I'm learning how models work under the hood.* 🧠
+
+---
+
+### 📚 Current Focus & Learning Path
+- 🛠️ **Core Algorithms:** Mastering the mathematical foundations of Machine Learning.
+- 📊 **Data Preprocessing:** Transforming messy data into clean, model-ready insights.
+- 🧠 **Deep Learning:** Deep-diving into Neural Networks and modern AI architectures.
+
+### 🎯 Goal
+Transitioning from learning theoretical concepts to building impactful, data-driven solutions.
+
 
 
 ## 🌐 Socials:
